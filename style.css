@@ -217,7 +217,7 @@ main .arrow img {
 
 .secondSection .item h3 {
     font-weight: 700;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
 
 }
 
@@ -441,6 +441,7 @@ footer{
 
     .secondSection .item h3{
         text-align: center;
+        width:auto;
     }
 
     .secondSection .item p{
